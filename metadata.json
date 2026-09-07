@@ -1,6 +1,0 @@
-{
-  "name": "Master App Hub - AI Project Central",
-  "description": "Dashboard maestro para centralizar, organizar y acceder a todos tus proyectos y aplicaciones creadas con Google AI Studio y herramientas de IA.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
